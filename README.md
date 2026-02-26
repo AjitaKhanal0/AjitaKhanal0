@@ -17,12 +17,7 @@
 - **Full-Stack Development**: Improving my front-end and back-end skills.
 
 ## 📫 How to reach me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Website: [your-website.com](http://your-website.com)
-- 🔗 LinkedIn: [Ajita Khanal LinkedIn](https://www.linkedin.com/in/ajita-khanal)
-
----
-
-> "The journey of a thousand miles begins with a single step." – Lao Tzu
+- 📧 Email: [Khanalajita950@gmail.com)
+- 🔗 LinkedIn: [Ajita Khanal LinkedIn](https://www.linkedin.com/in/ajitakhanal299)
 
 Feel free to explore my repositories and connect with me!
