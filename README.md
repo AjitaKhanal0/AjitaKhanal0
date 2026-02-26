@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Ajita Khanal 👋
 
-<!--
-**AjitaKhanal0/AjitaKhanal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🌍 I'm from Sainamain-5, Buddhnagar, Rupandehi, Nepal.
+- 🎓 I'm currently a student at Oxford College.
+- 💻 I'm passionate about **coding** and love exploring new technologies.
+- ✈️ I enjoy **traveling** and experiencing different cultures.
 
-Here are some ideas to get you started:
+## 🛠️ My Skills & Interests
+- **Programming Languages**: Python, JavaScript, C++
+- **Technologies**: HTML, CSS, React, Node.js, Django, Flask
+- **Databases**: MySQL, MongoDB
+- **Other Interests**: Web development, Machine learning, Data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm currently learning
+- **AI/ML**: Exploring machine learning frameworks and concepts.
+- **Full-Stack Development**: Improving my front-end and back-end skills.
+
+## 📫 How to reach me
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 Website: [your-website.com](http://your-website.com)
+- 🔗 LinkedIn: [Ajita Khanal LinkedIn](https://www.linkedin.com/in/ajita-khanal)
+
+---
+
+> "The journey of a thousand miles begins with a single step." – Lao Tzu
+
+Feel free to explore my repositories and connect with me!
