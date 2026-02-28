@@ -7,10 +7,10 @@
 - ✈️ I enjoy **traveling** and experiencing different cultures.
 
 ## 🛠️ My Skills & Interests
-- **Programming Languages**: Python, JavaScript, C++
-- **Technologies**: HTML, CSS, React, Node.js, Django, Flask
+- **Programming Languages**: Python, JavaScript, java
+- **Technologies**: HTML, CSS, React,etc.
 - **Databases**: MySQL, MongoDB
-- **Other Interests**: Web development, Machine learning, Data analysis
+- **Other Interests**: Web development, AI &software Development
 
 ## 🌱 I'm currently learning
 - **Full-Stack Development**: Improving my front-end and back-end skills.
